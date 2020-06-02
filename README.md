@@ -1,2 +1,2 @@
 # sethypie.github.io
-My GitHub pages repository.
+My GitHub Pages repository.
